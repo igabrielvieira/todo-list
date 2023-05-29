@@ -19,10 +19,10 @@ Configuração do projeto
 Siga as etapas abaixo para configurar e executar o aplicativo:
 
 1. Clone este repositório em sua máquina local:
-```git clone <URL_DO_REPOSITORIO>```
+```git clone https://github.com/igabrielvieira/todo-list.git```
 
 2. Navegue até o diretório do projeto:
-```cd todolist-react-vite```
+```cd todo```
 
 3. Instale as dependências do projeto usando o npm:
 ```npm install```
