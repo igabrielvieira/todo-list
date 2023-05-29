@@ -44,5 +44,5 @@ App.jsx: Componente raiz do aplicativo.
 
 index: Contém arquivos estáticos, como o arquivo HTML de entrada.
 
-Agradecimentos
-Este aplicativo foi desenvolvido com base nas tecnologias e documentação fornecidas pelo React e Vite. Um agradecimento especial à comunidade de desenvolvimento de software por sua contribuição contínua para essas ferramentas incríveis.
+Este aplicativo foi desenvolvido com base nas tecnologias e documentação fornecidas pelo React e Vite.
+Obrigado pela ajuda de toda a comunidade, fiz com muito carinho e essa aplicação contribuiu inimaginavelmente para meu conhecimento.
