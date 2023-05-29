@@ -1,6 +1,7 @@
 # TodoList com React e Vite ⚛️
 
-![image](https://github.com/igabrielvieira/to-do-list/assets/81838038/07d2600f-6ecb-4c10-a614-c2c6cd4e3d06)
+![image](https://github.com/igabrielvieira/todo-list/assets/81838038/3da58862-30cb-4f8e-b482-62a07c69227a)
+
 
 Este é um aplicativo TodoList desenvolvido usando React e Vite. Ele permite que você acompanhe suas tarefas diárias, adicionando, marcando como concluídas, excluindo e organizando suas tarefas em categorias personalizadas.
 
