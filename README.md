@@ -37,8 +37,11 @@ Estrutura do projeto
 A estrutura do projeto é organizada da seguinte forma:
 
 src: Diretório principal do código-fonte do aplicativo.
+
 components: Contém os componentes React reutilizáveis.
+
 App.jsx: Componente raiz do aplicativo.
+
 index: Contém arquivos estáticos, como o arquivo HTML de entrada.
 
 Agradecimentos
